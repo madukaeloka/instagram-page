@@ -1,0 +1,73 @@
+
+nav{width: 100%;
+	border-style: 1px solid;
+	border-color:black;
+	background-color: lightblue;
+}
+
+#P{padding-left:400px;
+}
+
+	
+
+#profile{float:right;
+	margin-top: 10px;
+	width: 50px;
+	padding-right: 100px;
+}
+#Home{width:50px ;
+
+}
+#section{
+	width:62% ;
+	padding-left:480px;
+	position: absolute;
+	margin-top:50px;
+	background-color:
+	
+}
+	
+article{
+	width:38% ;
+	margin-top: 10px
+	background-color:#B2DFEE
+}
+img{
+	width:140px;
+	margin: 5px;
+}
+#a{
+	float:right;
+	margin-top:30px;
+	padding-right: 80px;
+
+}
+aside{width: 38%;
+	margin-top:50px;
+	background-color:#BFEFFF
+}
+#puppy{
+	padding-left:150px;
+}
+#h4{
+padding-left:60px;
+
+}
+button{
+	width:70px;
+	height:35px;
+	padding-left: 150px;
+	background-color: #00EE76;
+}
+input{	width: 100px;
+	background-color: #E0EEEE;
+	display: inline;
+	padding-left: 20px;
+}
+h5{
+	padding-left: 100px;
+	margin-top:-20px;
+}
+p{
+	padding-left:70px;
+}

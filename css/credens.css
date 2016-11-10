@@ -1,0 +1,177 @@
+
+nav{
+	border:1px solid yellow;
+	width: 100%;
+	height: 50px;
+	}
+
+#home{
+	display: inline-block;
+	padding-left: 50px;
+}
+
+#oks{
+	float: right;
+	margin-top: 20px;
+}
+
+#work{
+	display: inline-block;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+
+#arrow{
+	display: inline-block;
+	padding-right: 100px;
+	margin-top: 100px;
+	float: right;
+	opacity: 90%;
+}
+
+#top-image{
+	background-image:url("../img/credens.png");
+	background-repeat:no-repeat;
+	background-size: 100%;
+	height:400px;
+}
+
+section{
+	background-color: transparent;
+	width: 100%;
+}
+
+#start-today{
+	display: inline-block;
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	text-decoration: none;
+	color:white;
+	float: left;
+	margin-left: 100px;
+}
+
+nav a{
+	text-decoration: none;
+}
+
+nav a:active{
+	border-bottom: 3px solid red;
+}
+
+#P{
+	padding-left: 130px;
+
+}
+
+#A {
+	display: inline-block;
+}
+#B{
+	display: inline-block;
+
+}
+#C{
+	display: inline-block;
+}
+
+#D{
+	display: inline-block;
+}
+
+#E{
+	display: inline-block;
+	
+}
+#E a{
+	text-decoration: none;
+}
+
+#E li a:active{
+	border: 2px solid red;
+	background-color: red;
+	color: #fff;
+}
+
+
+#F{
+	display: inline-block;
+	padding-left: 100px;
+
+}
+#G{
+	display: inline-block;
+	float: right;
+	margin-top: 20px;
+	/*opacity: 0.7;
+	filter:alpha(opacity=50);*/
+}
+/*
+#G:hover{
+	opacity: 1.0;
+	filter: alpha(opacity=100);
+}*/
+
+hr{
+	background-color: red;
+	height: 5px;
+	width: 50px;
+	margin:auto;
+}
+
+h3{
+	text-align: center;
+}
+
+h1{
+
+	text-align: center;
+
+}
+
+p{
+	text-align: center;
+}
+
+
+address{
+	width: 100%;
+	background-color:transparent;
+}
+
+.direction{
+	width: 150px;
+	height: 30px;
+	border:2px solid;
+	background-color: red;
+	color: white;
+}
+
+article{
+	width: 100%;
+	background-color:transparent;
+
+{
+
+ .right{
+	/*display: inline-block;*/
+	width: 5px;
+	height: 5px;
+	background-color: red;
+	float: right;
+}
+
+.left{
+	/*display: inline-block;*/
+	width: 5px;
+	height: 5px;
+	background-color: red;
+	float: right;
+}
+
+h5{
+	text-align: center;
+	text-decoration: none;
+
+}

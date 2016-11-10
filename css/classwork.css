@@ -1,0 +1,54 @@
+.top-image{
+	background-image: url("../img/classwork.png");
+background-repeat: no-repeat;
+
+}
+
+.middle{
+	float: center;
+}
+body{
+	padding-left:300px;
+	padding-right:300px;
+
+}
+h1{
+	padding-top: 50px;
+	padding-left: 100px;
+	margin-bottom: -35px;
+	color:white;
+	text-align: center;
+}
+
+button{
+	width: 350px;
+	height:30px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color:brown;
+}
+input{
+	width:250px;
+	height:30px;
+	padding-left: 100px;
+}
+img{
+	height:50px;
+	width:100px;
+	padding-top: 30px;
+	padding-left: 320px;
+
+}
+
+
+.shift{
+	padding-left: 100px;
+}
+.lo{
+	margin-right: 100px;
+	color:pink;
+}
+h5{
+	text-align: center;
+	color: pink;
+}
